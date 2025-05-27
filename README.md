@@ -39,6 +39,7 @@
 ![image](https://github.com/user-attachments/assets/0478c540-8f8a-40b4-a2a1-160ee1270d87)
 
 Файлы с планами запросов находятся в репозитории.
+
 8. Сравнить результаты пункта 6 локально с результатом на сайте https://tatiyants.com/pev/#/plans/new
 
 Локально:
