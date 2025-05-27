@@ -42,6 +42,12 @@
 
 8. Сравнить результаты пункта 6 локально с результатом на сайте https://tatiyants.com/pev/#/plans/new
 
+Локально:
+![image](https://github.com/user-attachments/assets/be9144b4-ad1a-4617-9cc3-f44d6072777f)
+
+На сайте:
+![image](https://github.com/user-attachments/assets/dac9c755-9a5c-4d4f-949b-7ced0248e4a9)
+
 `pr13_task.sql` - файл с выполненными sql-запросами
 
 ## Выводы:
