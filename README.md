@@ -32,11 +32,11 @@
 
 7. Реализовать запросы с использованием JOIN, GROUP BY и подзапроса. Экспортировать планы запросов в файлы в формате JSON.
 
-![image](https://github.com/user-attachments/assets/0e1282bb-5f12-43e5-942f-a82c8f0c9dff)
+![image](https://github.com/user-attachments/assets/8eeec24a-1859-4db2-b08b-b2c62298a987)
 
-![image](https://github.com/user-attachments/assets/09eb84ba-07c4-4f90-9e88-613116fb5617)
+![image](https://github.com/user-attachments/assets/b74e7863-1564-4cb6-9817-565a086302e4)
 
-![image](https://github.com/user-attachments/assets/33c63e23-174c-42aa-9b25-334c4c288668)
+![image](https://github.com/user-attachments/assets/0478c540-8f8a-40b4-a2a1-160ee1270d87)
 
 8. Сравнить результаты пункта 6 локально с результатом на сайте https://tatiyants.com/pev/#/plans/new
 
