@@ -48,7 +48,10 @@
 На сайте:
 ![image](https://github.com/user-attachments/assets/be8ab74c-438f-402a-a6dc-e8310a16493b)
 
-`ERD_pr13_Panshina` - файл с ER-диаграммой, находится в репозитории.
+`QUERY_PLAN.json` - план сравниваемого запроса в формате json.
+
+`ERD_pr13_Panshina.png` - файл с ER-диаграммой, находится в репозитории.
+
 `pr13_task.sql` - файл с выполненными sql-запросами, находится в репозитории.
 
 ## Выводы:
