@@ -18,9 +18,7 @@
 
 4. Сгенерировать данные и вставить в таблицы:
 
-![image](https://github.com/user-attachments/assets/2051d940-7882-4140-ad90-b36cfb42212c)
-
-![image](https://github.com/user-attachments/assets/24d86686-dd05-4384-bf30-3a548c3fba72)
+![image](https://github.com/user-attachments/assets/ec1d3968-bcf2-4cc3-b4bd-3583c6ab88fa)
 
 5. С помощью директивы EXPLAIN просмотрим план соединения таблиц table1 и table2 по id1:
 
