@@ -26,9 +26,9 @@
 
 6. Реализовать план запроса:
 
-![image](https://github.com/user-attachments/assets/ea80b201-faec-4a9d-b320-04aec81aea3e)
+![image](https://github.com/user-attachments/assets/5a915c74-453f-4a72-8abe-02b6a5537158)
 
-![image](https://github.com/user-attachments/assets/f197c1e0-9a12-43c5-81e1-2a03639aefe5)
+![image](https://github.com/user-attachments/assets/0a8a2633-1f94-4512-801d-de9b44ec6150)
 
 7. Реализовать запросы с использованием JOIN, GROUP BY и подзапроса. Экспортировать планы запросов в файлы в формате JSON.
 
