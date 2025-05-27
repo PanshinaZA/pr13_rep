@@ -26,7 +26,7 @@
 
 6. Реализовать план запроса:
 
-![image](https://github.com/user-attachments/assets/5a915c74-453f-4a72-8abe-02b6a5537158)
+![image](https://github.com/user-attachments/assets/eadf0079-099f-4ed9-93e5-4f9c2d6fc2b4)
 
 ![image](https://github.com/user-attachments/assets/0a8a2633-1f94-4512-801d-de9b44ec6150)
 
