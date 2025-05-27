@@ -41,7 +41,7 @@
 8. Сравнить результаты пункта 6 локально с результатом на сайте https://tatiyants.com/pev/#/plans/new
 
 Локально:
-![image](https://github.com/user-attachments/assets/be9144b4-ad1a-4617-9cc3-f44d6072777f)
+![image](https://github.com/user-attachments/assets/2abbfb2b-c319-4bee-9a92-d3f61026dab5)
 
 На сайте:
 ![image](https://github.com/user-attachments/assets/dac9c755-9a5c-4d4f-949b-7ced0248e4a9)
