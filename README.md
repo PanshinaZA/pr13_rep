@@ -4,7 +4,7 @@
 
 
 ## Ход работы:
-1. Создаем базу данных `bd13` и таблицу table1 в ней:
+1. Создаем таблицу table1 в нашей базе данных:
 
 ![image](https://github.com/user-attachments/assets/24080ced-9433-4f81-8ac5-e1ee78d6c685)
 
