@@ -26,6 +26,13 @@
 
 ![image](https://github.com/user-attachments/assets/38394104-b14c-42b5-84b8-dfa62187dc81)
 
+6. Реализовать план запроса:
+
+![image](https://github.com/user-attachments/assets/ea80b201-faec-4a9d-b320-04aec81aea3e)
+
+![image](https://github.com/user-attachments/assets/f197c1e0-9a12-43c5-81e1-2a03639aefe5)
+
+7. 
 
 `pr13_task.sql` - файл с выполненными sql-запросами
 
