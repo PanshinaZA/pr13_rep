@@ -44,7 +44,7 @@
 ![image](https://github.com/user-attachments/assets/2abbfb2b-c319-4bee-9a92-d3f61026dab5)
 
 На сайте:
-![image](https://github.com/user-attachments/assets/dac9c755-9a5c-4d4f-949b-7ced0248e4a9)
+![image](https://github.com/user-attachments/assets/be8ab74c-438f-402a-a6dc-e8310a16493b)
 
 `pr13_task.sql` - файл с выполненными sql-запросами
 
